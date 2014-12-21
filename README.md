@@ -16,7 +16,7 @@ You must also include enough documentation so that a novice user could use your 
 The documentation should be at the Shiny website itself. Do not post to an external link.
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.  
 
-## * http://jmhalitsky.shinyapps.io/developingdataproducts_Women *
+### * http://jmhalitsky.shinyapps.io/developingdataproducts_Women *
 
 ========================   
 
@@ -40,4 +40,5 @@ Notice to publish your slidify presentation to github or Rpubs, there's the publ
                                                                                                                                                                                                                                                         http://slidify.org/publish.html
                                                                                                                               Rstudio presenter has a button to publish directly to Rpubs https://support.rstudio.com/hc/en-us/articles/200714023-Displaying-and-Distributing-Presentations. If you are using Rpubs, put in the link to the presentation into the submission box as a http:// link not a https:// link.
                                                                                                                                 You can also publish using both formats to github manually using gh-pages, though your github branch must have a .nojekyll fle and be on a branch names gh-pages. There's more on gh-pages here https://pages.github.com/  and there is a video lecture outlining how to do this.
-                                                                                                                                                                                                                                                                ## * http://github.com/JMHalitsky/Developing-Data-Products *
+                                                                                                                        
+### * http://github.com/JMHalitsky/Developing-Data-Products *
