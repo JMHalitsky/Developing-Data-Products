@@ -1,4 +1,4 @@
-Average Heights and Weights for American Women
+AAverage Heights and Weights for American Women
 ==================================================================
 author      : Jenina Halitsky                 
 date        : December 21, 2014
@@ -7,6 +7,12 @@ date        : December 21, 2014
 ## Women!
 
 One of the biggest no-no's in any conversation is talking about women's height and weight.  No matter what, you will offend a lady when the topic is brought up.   Luckily, as a lady, I can touch base on this subject and let you know the correlation between height and weight.
+
+The shiny app allows a person to select their height to see what the average weight would be.   
+
+Please feel free to view the shiny app at: (http://jmhalitsky.shinyapps.io/developingdataproducts_Women)
+
+```
 
 ==================================================================
 
@@ -27,17 +33,6 @@ library(datasets)
     geom_point(colour="red", size=4, shape=21, fill="white")
 ```
 
-
-==================================================================
-
-## Shiny App
-
-The shiny app allows a person to select their height to see what the average weight would be.   
-
-Please feel free to view the shiny app at: (http://jmhalitsky.shinyapps.io/developingdataproducts_Women)
-
-```
-
 ==================================================================
 
 ## Conclusion
@@ -51,8 +46,3 @@ Unfortunately, the data from this dataset does not answer a few questions:
         3.  Is she currently overweight or underweight?
         
         4.  It doesn't tell how large of a sample it is.
-
-
-==================================================================
-
-
