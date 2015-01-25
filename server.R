@@ -13,3 +13,5 @@ shinyServer(
                 output$weightid <- renderPrint(fx(input$heightid))
         }
 )    
+
+
